@@ -52,6 +52,7 @@ void sumba(int a, int b) {
 		}
 		time++;
 	}
+	cout << -1 << endl;
 }
 
 int main() {
