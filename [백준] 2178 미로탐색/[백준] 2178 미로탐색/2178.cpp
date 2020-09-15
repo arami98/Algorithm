@@ -75,7 +75,7 @@ int main() {
 	for (int i = 0; i < N; i++) {
 		cin >> temp;
 		for (int j = 0; j < M; j++) {
-			map[i + 1][j + 1] = temp[j]-'0';
+			map[i + 1][j + 1] = temp[j] - '0';
 		}
 	}
 
